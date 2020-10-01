@@ -1,0 +1,40 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+// Font Awesome
+@import '~font-awesome/scss/font-awesome';
+
+// Dropzone
+@import "~dropzone/dist/basic";
+@import "~dropzone/dist/dropzone";
+
+@import "mixins";
+@import "margins";
+@import "helpers";
+@import "typography";
+@import "buttons";
+@import "bootstrap-social";
+@import "badges";
+@import "panels";
+@import "wells";
+@import "modals";
+@import "socials";
+@import "forms";
+@import "lists";
+@import "avatar";
+@import "logs";
+@import "password";
+@import "hideShowPassword";
+@import "visibility";
+@import "user-profile";
