@@ -1,4 +1,4 @@
-## Laravel Auth
+## Laravel 8 Full Auth
 
 #### Laravel Auth is a Complete Build of Laravel 8 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Built on Bootstrap 4.
 [![Build Status](https://travis-ci.org/jeremykenedy/laravel-auth.svg?branch=master)](https://travis-ci.org/jeremykenedy/laravel-auth)
@@ -1051,3 +1051,4 @@ laravel-auth
 ├── server.php
 └── webpack.mix.js
 ```
+### If you have any questions, please let me know via email. tech.toolbox.project@gmail.com 
