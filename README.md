@@ -1,4 +1,4 @@
-## Laravel 8 Full Auth
+## Laravel 8 Full Auth, Perfect 👌 Application : You can use this to create your own website based on Laravel 8
 
 #### Laravel Auth is a Complete Build of Laravel 8 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Built on Bootstrap 4.
 [![Build Status](https://travis-ci.org/jeremykenedy/laravel-auth.svg?branch=master)](https://travis-ci.org/jeremykenedy/laravel-auth)
