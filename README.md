@@ -1041,4 +1041,3 @@ laravel-auth
 ├── server.php
 └── webpack.mix.js
 ```
-### If you have any questions, please let me know via email. tech.toolbox.project@gmail.com.[From KMH]
